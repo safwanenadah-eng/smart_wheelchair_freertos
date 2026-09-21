@@ -1,0 +1,26 @@
+# Fichiers de compilation AVR-GCC
+*.o
+*.elf
+*.hex
+*.eep
+*.map
+*.lst
+
+# Fichiers Proteus temporaires
+*.pdsprj.bak
+*.dsn.bak
+*.sdf
+*.pdsprj~
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
+
+# Dossiers de build (si utilisés)
+build/
+bin/
+obj/
+
+# Fichiers d'édition / IDE
+.vscode/
+*.swp
