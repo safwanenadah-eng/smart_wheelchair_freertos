@@ -130,4 +130,4 @@ Ouvrir `simulation/wheelchair_schematic.pdsprj`, charger `main.hex` sur l'ATmega
 
 ---
 
-## 📅 Projet réalisé en 2025 — dans le cadre d'un portfolio de systèmes embarqués temps réel.
+## 📅 Projet réalisé en 2026 — dans le cadre d'un portfolio de systèmes embarqués temps réel.
